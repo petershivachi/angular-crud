@@ -28,8 +28,8 @@ If you come accross bugs, fix them.
       npm install
       
 - Serve the project - To have open the project in open in your browser, run the command below
--
-      serve --open
+
+      ng serve --open
 
 ## Credentials
 
