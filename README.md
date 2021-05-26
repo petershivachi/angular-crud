@@ -1,7 +1,10 @@
 # Angular_CRUD
 
 An angular application with create, read, update and delete functionalities to manage clients.
+
 Uses Firebase Firestore to store the clients credentials.
+
+If you come accross bugs, fix them.
 
 ## Requirements to run the application
 
@@ -11,22 +14,22 @@ Uses Firebase Firestore to store the clients credentials.
   
 - Install angular cli
 
-      <addr> npm install -g @angular/cli </addr>
+      npm install -g @angular/cli
 
 ## Getting started with the project
 
 - Download the project files
 - Navigate into the client folder
 
-      <addr> cd client </addr>
+      cd client
 
 - Install the third party depedency packages - Can be achieved by running the command below
 
-      <addr> npm install </addr>
+      npm install
       
 - Serve the project - To have open the project in open in your browser, run the command below
 -
-      <addr>ng serve --open</addr>
+      serve --open
 
 ## Credentials
 
